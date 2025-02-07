@@ -1,1 +1,14 @@
+# Week 1 Progress
 
+## Progress:
+- Completed problem statement.
+- Completed approach.
+- Found all MRF's for each hospital and insurer.
+
+## Challenges:
+- Need to find hospital CPT service codes.
+- Decide whether to use outpatient/inpatient or a mixture of both for codes.
+
+## Next Steps:
+- Go through all of the MRF's to find common service codes.
+- Identify top 20 service codes and botttom 20 service codes.
