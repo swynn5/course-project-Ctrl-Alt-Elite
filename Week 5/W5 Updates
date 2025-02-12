@@ -1,1 +1,12 @@
+# Week 5 Progress
 
+## Progress:
+- Created action plan 
+- Downloaded / uploaded all CSV files for hospitals 
+- Set a soft deadline for data exploration and to create notes on each file 
+
+## Challenges:
+- Some files are in JSON format, so we might have to pick other locations
+
+## Next Steps:
+- Merge all data files into one large dataset 
